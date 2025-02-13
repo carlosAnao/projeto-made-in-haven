@@ -1,6 +1,19 @@
 body{
-    background-color: rgb(204, 28, 28);
+    background-color: #CCCCCC;
 }
+
+.titulo{
+    font-size: 40px;
+    color:black;
+
+}
+
+.stand_header{
+    width: 20%;
+    border-radius: 10px;
+
+}
+
 .stand{
     width: 50%;
 }
